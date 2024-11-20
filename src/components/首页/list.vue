@@ -17,10 +17,10 @@
 </template>
 
 <script setup>
-import u18 from '@/assets/images/首页/u18.png';
-import u24 from '@/assets/images/首页/u24.png';
-import u30 from '@/assets/images/首页/u30.png';
-import u36 from '@/assets/images/首页/u36.png';
+import u18 from '../../assets/images/首页/u18.png';
+import u24 from '../../assets/images/首页/u24.png';
+import u30 from '../../assets/images/首页/u30.png';
+import u36 from '../../assets/images/首页/u36.png';
 
 const items = [
   { img: u18, title: '多模态情感分析', desc: '平台采用先进的多模态情感分析技术，融合文本、声音、图像等多种数据源，升入解读股票市场的情感动态。' },
@@ -32,7 +32,7 @@ const items = [
 
 <style scoped>
 #container {
-  background-image: url('@/assets/images/首页/u4.svg');
+  background-image: url('../../assets/images/首页/u4.svg');
   background-size:100% 100%;
   height: 1000px;
 }
@@ -87,3 +87,4 @@ p {
   font-weight: 400;
 }
 </style>
+
