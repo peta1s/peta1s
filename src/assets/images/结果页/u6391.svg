@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="75px" height="35px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="37.5" y1="0" x2="37.5" y2="35" id="LinearGradient159">
+      <stop id="Stop160" stop-color="#156450" offset="0" />
+      <stop id="Stop161" stop-color="#32f99b" offset="1" />
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="37.5" y1="0" x2="37.5" y2="35" id="LinearGradient162">
+      <stop id="Stop163" stop-color="#156450" offset="0" />
+      <stop id="Stop164" stop-color="#32f99b" offset="1" />
+    </linearGradient>
+    <mask fill="white" id="clip165">
+      <path d="M 44.75 26.75  C 47.7252898092715 30.3585869427816  46.5 34.5  46.5 34.5  L 74.5 34.5  C 74.5 34.5  75.4751007651321 27.2036746558549  70.5 22.25  C 46.7621062440461 -1.38566251891234  5.75 1  5.75 1  L 0.5 11  C 0.5 11  7.20331994723438 11.5485710990517  16.25 13.25  C 25.6956123188047 15.0264569646138  37.645496770321 18.1332872650999  44.75 26.75  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -303 -501 )">
+    <path d="M 44.75 26.75  C 47.7252898092715 30.3585869427816  46.5 34.5  46.5 34.5  L 74.5 34.5  C 74.5 34.5  75.4751007651321 27.2036746558549  70.5 22.25  C 46.7621062440461 -1.38566251891234  5.75 1  5.75 1  L 0.5 11  C 0.5 11  7.20331994723438 11.5485710990517  16.25 13.25  C 25.6956123188047 15.0264569646138  37.645496770321 18.1332872650999  44.75 26.75  Z " fill-rule="nonzero" fill="url(#LinearGradient159)" stroke="none" transform="matrix(1 0 0 1 303 501 )" />
+    <path d="M 44.75 26.75  C 47.7252898092715 30.3585869427816  46.5 34.5  46.5 34.5  L 74.5 34.5  C 74.5 34.5  75.4751007651321 27.2036746558549  70.5 22.25  C 46.7621062440461 -1.38566251891234  5.75 1  5.75 1  L 0.5 11  C 0.5 11  7.20331994723438 11.5485710990517  16.25 13.25  C 25.6956123188047 15.0264569646138  37.645496770321 18.1332872650999  44.75 26.75  Z " stroke-width="2" stroke="url(#LinearGradient162)" fill="none" transform="matrix(1 0 0 1 303 501 )" mask="url(#clip165)" />
+  </g>
+</svg>
